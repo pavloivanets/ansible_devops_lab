@@ -1,0 +1,6 @@
+*~
+set-env.sh
+terraform.tfstate*
+.terraform/
+ansible.cfg
+*.retry
